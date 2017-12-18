@@ -1,7 +1,7 @@
 <?php
 
 
-	echo '<p>Juste un essai pour Git. Des fautes sont présente pour l\'exemple</p>';
+	echo '<p>Juste un essai pour Git. Des fautes sont présentes pour l\'exemple</p>';
 
 
 
