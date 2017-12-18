@@ -7,8 +7,4 @@
 
 	echo "<p>Le résultat est $i !</p>";
 
-
-
-	
-
 ?>
